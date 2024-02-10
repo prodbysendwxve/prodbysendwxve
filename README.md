@@ -5,8 +5,6 @@
     I'm Nazar, a programmer who is passionate about programming languages and design. Welcome to my GitHub profile!
 
 ## About Me
-
-- 🌟 Insert an attractive slogan or introduction about yourself.
 - 🎓 Currently studying at the College of Electronic Devices.
 - 💼 Student.
 - 🌱 Currently learning c++, html, css, python.
