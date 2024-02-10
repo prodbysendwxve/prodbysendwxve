@@ -12,7 +12,10 @@
 
 ## Education
 
+
 ![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif?raw=true)
+
+
 
 - **ISTEP IT Academy**.
   - Graduated from the primary and secondary level of STEP IT Academy.
@@ -20,7 +23,7 @@
 
 ## My Projects
 
-nothing
+
 
 ## My Skills
 
@@ -36,12 +39,16 @@ nothing
 
 If you found my work useful or interesting, consider supporting:
 
+
+
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/prodbysendwxve)
 - 🌟 Star my repositories on GitHub
 
+
+
 Feel free to reach out if you have any questions, suggestions, or just want to chat. Thanks for visiting!
 
-![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/shadow-fiend-dota2.gif?raw=true)
+![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/kitty.gif?raw=true)
 </div>
 
 
