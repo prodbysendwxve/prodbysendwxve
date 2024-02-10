@@ -14,9 +14,7 @@
 
 ## My Projects
 
-Here are some projects I've worked on:
-
-- My [resume](https://prodbysendwxve.github.io/).
+nothing
 
 ## My Skills
 
@@ -26,7 +24,6 @@ Here are some projects I've worked on:
 
 ## Let's Connect
 
-- 🌐 [Personal website](https://prodbysendwxve.github.io/).
 - 📷 [Instagram](https://www.instagram.com/sendwave6768/).
 
 ## Support Me
