@@ -8,7 +8,7 @@
 - 🎓 Currently studying at the College of Electronic Devices.
 - 💼 Student.
 - 🌱 Currently learning c++, html, css, python.
-- 📫 How to reach me: - [Instagram](https://www.instagram.com/sendwave6768/).
+- 📫 How to reach me:[Instagram](https://www.instagram.com/sendwave6768/).
 
 ## Education
 
