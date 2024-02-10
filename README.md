@@ -35,7 +35,7 @@ If you found my work useful or interesting, consider supporting:
 
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/prodbysendwxve)
 - 🌟 Star my repositories on GitHub
-![GIF](https://raw.githubusercontent.com/prodbysendwxve/prodbysendwxve/main/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)
+
 Feel free to reach out if you have any questions, suggestions, or just want to chat. Thanks for visiting!
 
 ![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/shadow-fiend-dota2.gif?raw=true)
