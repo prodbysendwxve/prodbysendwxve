@@ -1,44 +1,42 @@
-# Привіт, світ! 👋
-![Зображення заголовку](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/hd-aspect-1499073090-gettyimages-71494788%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg?raw=true)
+# Hello, world! 👋
+![Header Image](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/hd-aspect-1499073090-gettyimages-71494788%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg?raw=true)
 
+<div style="background-image: url('');">
+    I'm Nazar, a programmer who is passionate about programming languages and design. Welcome to my GitHub profile!
 
-Я Nazar, Програміст, який захоплюється мовами програмування і дизайном. Ласкаво просимо до мого профілю на GitHub! 
+## About Me
 
-## Про Мене
+- 🌟 Insert an attractive slogan or introduction about yourself.
+- 🎓 Currently studying at the College of Electronic Devices.
+- 💼 Student.
+- 🌱 Currently learning c++, html, css, python.
+- 📫 How to reach me: - [Instagram](https://www.instagram.com/sendwave6768/).
 
-- 🌟 Вставте привабливий слоган або вступ про себе.
-- 🎓 Зараз Коледж електронних приладів.
-- 💼 Студент. 
-- 🌱 Зараз я вивчаю c++, html, css, pythone.
-- 📫 Як зв'язатися зі мною: - [instagram](https://www.instagram.com/sendwave6768/).
+## My Projects
 
-## Мої Проекти
+Here are some projects I've worked on:
 
-Ось деякілька проектів, над якими я працював:
+- My [resume](https://prodbysendwxve.github.io/).
 
-- Моє [резюме](https://prodbysendwxve.github.io/).
+## My Skills
 
+- **Programming Languages:** c++, python, html, css.
+- **Technologies and Tools:** Adobe Photoshop (Over 4 years), MySQL.
+- **Other Skills:** FL Studio (2 years).
 
+## Let's Connect
 
-## Мої Навички
+- 🌐 [Personal website](https://prodbysendwxve.github.io/).
+- 📷 [Instagram](https://www.instagram.com/sendwave6768/).
 
-- **Мови Програмування:** c++, pythone, html, css.
-- **Технології та Інструменти:** adobe photoshop (Більше 4-рьох років), My Sql.
-- **Інші Навички:** Fl Studio (2 роки).
+## Support Me
 
-## Давайте З'єднуємося
+If you found my work useful or interesting, consider supporting:
 
-- 🌐 [Особистий веб-сайт](https://prodbysendwxve.github.io/).
-- 📷 [instagram](https://www.instagram.com/sendwave6768/).
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/prodbysendwxve)
+- 🌟 Star my repositories on GitHub
 
-## Підтримайте Мене
+Feel free to reach out if you have any questions, suggestions, or just want to chat. Thanks for visiting!
 
-Якщо ви знайшли мою роботу корисною або цікавою, розгляньте можливість підтримки:
-
-- ☕ [Купіть Мені Каву](https://www.buymeacoffee.com/prodbysendwxve)
-- 🌟 Поставте зірочку моїм репозиторіям на GitHub
-
-Не соромтеся звертатися, якщо у вас є питання, пропозиції або просто хочете поспілкуватися. Дякую за візит!
-
-![Гіфка](https://media1.tenor.com/m/vm14hvPpEpMAAAAd/shadow-fiend-dota2.gif)
-
+![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/shadow-fiend-dota2.gif?raw=true)
+</div>
