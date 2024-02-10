@@ -10,6 +10,12 @@
 - 🌱 Currently learning c++, html, css, python.
 - 📫 How to reach me: - [Instagram](https://www.instagram.com/sendwave6768/).
 
+## Education
+
+- **ISTEP IT Academy**.
+  - Graduated from the primary and secondary level of STEP IT Academy.
+
+
 ## My Projects
 
 nothing
@@ -35,3 +41,5 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 
 ![GIF](https://github.com/prodbysendwxve/prodbysendwxve/blob/main/shadow-fiend-dota2.gif?raw=true)
 </div>
+
+
