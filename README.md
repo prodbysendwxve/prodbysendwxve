@@ -31,7 +31,7 @@
 - **Technologies and Tools:** Adobe Photoshop (Over 4 years), MySQL.
 - **Other Skills:** FL Studio (2 years).
 
-## Let's Connect
+## Connect
 
 - 📷 [Instagram](https://www.instagram.com/sendwave6768/).
 
