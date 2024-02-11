@@ -48,7 +48,6 @@ If you found my work useful or interesting, consider supporting:
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat. Thanks for visiting!
 
-![GIF](https://inlnk.ru/4yjxMP)
 </div>
 
 
