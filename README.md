@@ -33,7 +33,7 @@
 
 ## Connect
 
-- 📷 [Instagram](https://www.instagram.com/sendwave6768/).
+- 📷 [Instagram](https://www.instagram.com/prodbysendwxve/?next=%2Fsendwave6768%2F).
 
 ## Support Me
 
